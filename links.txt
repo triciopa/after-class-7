@@ -1,0 +1,12 @@
+https://developer.mozilla.org/es/docs/Glossary/Callback_function
+https://anamartinezaguilar.medium.com/callbacks-en-javascript-8deeca9824b4
+
+https://developer.mozilla.org/es/docs/Glossary/IIFE
+
+https://developer.mozilla.org/es/docs/Glossary/Recursion
+https://elvex.ugr.es/decsai/c/apuntes/recursividad.pdf
+https://code.tutsplus.com/es/tutorials/understanding-recursion-with-javascript--cms-30346
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/isNaN
