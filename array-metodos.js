@@ -1,6 +1,6 @@
 const array = [];
 
-array.push(1,2,3,4,5)
+array.push(1,2,3,4,5, 6)
 console.log('Push:', array)
 const pop = array.pop()
 console.log('Pop(',pop,'):', array)
@@ -8,7 +8,6 @@ const shift = array.shift()
 console.log('Shift(',shift,'):', array)
 array.unshift(1)
 console.log('Unshift:', array)
-
 array.reverse()
 console.log('Reverse:', array)
 
